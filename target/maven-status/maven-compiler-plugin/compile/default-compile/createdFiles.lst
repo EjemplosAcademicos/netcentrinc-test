@@ -1,0 +1,9 @@
+biz\netcentric\Person.class
+biz\netcentric\dispatcher\Dispatcher.class
+biz\netcentric\slyghtly\EngineJavaScript.class
+biz\netcentric\dispatcher\SlightlyDispatcher.class
+biz\netcentric\controller\FrontControllerServlet.class
+biz\netcentric\Person$1.class
+biz\netcentric\slyghtly\NashornEngine.class
+biz\netcentric\dispatcher\UnknownDispatcher.class
+biz\netcentric\slyghtly\SlyghtlyTransformer.class
